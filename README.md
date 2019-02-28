@@ -1,6 +1,6 @@
 # Would You Rather Project
 
-This is the final assessment project submitted for [Udacity's React & Redux course](https://www.udacity.com/course/react-nanodegree--nd019). The project was developed on [starter template provided by Udacity](https://github.com/udacity/reactnd-project-would-you-rather-starter). The goal of this project was to acheive these results:
+This is the final assessment project submitted for [Udacity's React & Redux course](https://www.udacity.com/course/react-nanodegree--nd019). The project was developed on [starter template provided by Udacity](https://github.com/udacity/reactnd-project-would-you-rather-starter). Demo video similar to end results of this project can be seen [here](https://www.youtube.com/watch?v=xfmSkLAL__Q). The goal of this project was to acheive these results:
 * Match the criteria provided in the project specification of this course
 * Using ESLint standard code styling
 * Creating new JS files for each component and use import/require statements to include them where they are needed
